@@ -12,7 +12,7 @@ const db=new pg.Client({
   host:"localhost",
   database:"##########",
   password:"#############",
-  port:5432
+  port:$$$$$
 })
 db.connect()
 let items = [];
